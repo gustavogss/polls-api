@@ -8,7 +8,9 @@
 - Typescript
 - FastiFy
 - Postgres
+- Prisma
 - Docker
+- Zod
 - Insomnia
 
 ## Features 
