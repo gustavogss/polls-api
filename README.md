@@ -1,5 +1,5 @@
 # Polls API
-- API para enquetes rodando tempo real 
+- API para enquetes em tempo real 
 
 ## Stacks :robot:
 - Node
