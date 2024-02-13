@@ -6,6 +6,7 @@
 - [Typescript](https://www.typescriptlang.org/docs/)
 - [FastiFy](https://fastify.dev/docs/latest/)
 - [FastiFy Cookie](https://www.npmjs.com/package/@fastify/cookie)
+- [FastiFy Websocket](https://www.npmjs.com/package/@fastify/websocket)
 - [Docker Postgres](https://hub.docker.com/r/bitnami/postgresql)
 - [Prisma](https://www.prisma.io/docs)
 - [Docker](https://docs.docker.com/)
